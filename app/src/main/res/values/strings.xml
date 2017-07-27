@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Speak-O-Back</string>
+    <string name="plain_text">Plain Text</string>
+    <string name="enter_text_for_reversion">Enter text for reversion</string>
+    <string name="reversed_text">Reversed Text</string>
+    <string name="reversed_text_will_appear_here">&#032;&#032;Reversed Text Will Appear Here</string>
+    <string name="_0_5x">0.5X</string>
+    <string name="_1x">1x</string>
+    <string name="_2x">2x</string>
+    <string name="_3x">3x</string>
+    <string name="speech_speed">Speech Speed</string>
+    <string name="pitch_level">Pitch Level</string>
+    <string name="_0_5">0.5</string>
+    <string name="_1_5">1.5</string>
+    <string name="_1">1</string>
+    <string name="max_19">Max 19</string>
+    <string name="about">About</string>
+</resources>
